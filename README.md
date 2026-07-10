@@ -14,6 +14,5 @@ Computer Science Student at Universidade Católica de Brasília
 - redes
 - suporte ti
 - git e github
-- 
 ## Objetivo
 Busco oportunidades de estágio em suporte técnico, infraestrutura e administração de sistemas.
