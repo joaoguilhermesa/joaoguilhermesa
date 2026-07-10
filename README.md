@@ -1,6 +1,6 @@
 # João Guilherme de Sá Fernandes
 Computer Science Student at Universidade Católica de Brasília
-## áreas de interesse
+## Áreas de interesse
 - IT Support
 - Linux
 - System Administration
