@@ -7,7 +7,7 @@ Computer Science Student at Universidade Católica de Brasília
 - Networking
 - Hardware Maintenance
 
-## atualmente estudando
+## Atualmente estudando
 
 - servidores Linux 
 - bash
