@@ -1,17 +1,14 @@
 # João Guilherme de Sá Fernandes
-Computer Science Student at Universidade Católica de Brasília
-## Areas of Interest
-- IT Support
+Estudante de Ciência da Computação na Universidade Católica de Brasília
+## Areás de interesse
+- Suporte de TI
 - Linux
-- System Administration
-- Networking
-- Hardware Maintenance
+- Adiministração de sistemas
+- Manutenção de hardware
 
-## Currently studying
-- Linux servers 
-- bash
+## Atualmente estudando
+- Servidores Linux  
+- Bash
 - Network
-- IT Support
+- Suporte TI
 - Git GitHub
-## Objective
-I am looking for internship opportunities in technical support, infrastructure, and administration
